@@ -1,0 +1,36 @@
+
+<h1 class="text-center pb-4">{{titulo}}</h1>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div>
+                <h3 class="mx-3">Agregar Producto</h3>
+            </div>
+            <div class="row">
+                <form id="addProductForm" class="m-3 d-grid">
+                    <input type="text" class="form-control mt-1" id="title" placeholder="Titulo">
+                    <input type="text" class="form-control mt-1" id="description" placeholder="Descripcion">
+                    <input type="number" class="form-control mt-1" id="price" placeholder="Precio">
+                    <input type="text" class="form-control mt-1" id="thumbnail" placeholder="Ruta de la imagen">
+                    <input type="number" class="form-control mt-1" id="code" placeholder="Codigo del producto">
+                    <input type="number" class="form-control mt-1" id="stock" placeholder="Stock">
+                    <button type="submit" class="btn btn-primary mt-3">Agregar Producto</button>
+                </form>
+            </div>
+        </div>
+        <div class="col">
+            <div>
+                <h3 class="mx-3">Eliminar Producto</h3>
+            </div>
+            <div class="row">
+                <form id="deleteProductForm" class="m-3 d-grid">
+                    <input type="number" class="form-control" id="deleteProdId" placeholder="Ingrese el ID del producto a eliminar">
+                    <button type="submit" class="btn btn-primary mt-3">Eliminar Producto</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div id="productsCard" class="row">
+</div>

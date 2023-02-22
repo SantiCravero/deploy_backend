@@ -1,0 +1,51 @@
+[
+  {
+    "title": "DateJust 36",
+    "description": "Reloj para hombres",
+    "price": 70000,
+    "thumbnail": "https://michaelkors.vercel.app/assets/watches/watch4.webp",
+    "code": 246,
+    "status": true,
+    "stock": 10,
+    "id": 1
+  },
+  {
+    "title": "Lady DateJust",
+    "description": "Reloj para mujeres",
+    "price": 40000,
+    "thumbnail": "https://michaelkors.vercel.app/assets/watches/watch8.webp",
+    "code": 359,
+    "status": true,
+    "stock": 15,
+    "id": 2
+  },
+  {
+    "title": "Air-King",
+    "description": "Reloj para hombres",
+    "price": 20000,
+    "thumbnail": "https://michaelkors.vercel.app/assets/watches/watch2.webp",
+    "code": 111,
+    "status": true,
+    "stock": 11,
+    "id": 4
+  },
+  {
+    "title": "Cellini Moon",
+    "description": "Reloj para mujeres",
+    "price": 10000,
+    "thumbnail": "https://michaelkors.vercel.app/assets/watches/watch7.webp",
+    "code": 263,
+    "status": true,
+    "stock": 20,
+    "id": 5
+  },
+  {
+    "title": "Reloj de prueba servidor",
+    "description": "server",
+    "price": "10000",
+    "thumbnail": "https://content.rolex.com/dam/2022-11/upright-bba-with-shadow/m126067-0001.png?imwidth=840",
+    "code": "21021201",
+    "stock": "3",
+    "id": 6
+  }
+]
